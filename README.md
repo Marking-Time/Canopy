@@ -46,3 +46,6 @@ I have seen people out in the sun and rain with no protection. Umbrellas are too
 
 ## Another small mobility idea
 A hitch added to the rear of a mobility scooter used to tow a trailer. It would help to solve the need of how to get your groceries home. The trailer could be the folding kind, so it could be stowed when not in use.
+
+## Discussion and Contact
+[Here](https://github.com/Marking-Time/Canopy/discussions/1)
